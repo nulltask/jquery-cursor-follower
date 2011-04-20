@@ -10,7 +10,7 @@
 (function($, window, document, undefined) {
 
 	var namespace = "followCursor",
-		prefix = "follorcur"
+		prefix = "followcur"
 	;
 
 	$.fn[namespace] = function(options) {
